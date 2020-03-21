@@ -1,0 +1,4 @@
+#Fri Feb 07 14:13:25 EST 2020
+base.0=C\:\\Users\\TheYe\\Downloads\\GameDevelopment\\Unity\\CardBoard Test\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
